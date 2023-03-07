@@ -1,0 +1,10 @@
+*{
+    margin: 0.3%;
+}
+div{
+    background-color: lightgray;
+    width: 775px;
+    height: 150px;
+    border : 15px solid green;
+    padding: 45px;
+}
